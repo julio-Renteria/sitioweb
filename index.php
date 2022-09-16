@@ -3,7 +3,7 @@
 
 <div class="jumbotron text-center">
     <h1 class="display-3">Bienvenidos al sitio de productos</h1>
-    <p class="lead">Consulta sobre nuestros productos</p>
+    <p class="lead">Consulta sobre nuestros productos. </p>
     <hr class="my-2">
 
     <img width="400" height="310" src="img/avatar.png" class="img-thumnail rounded mx-auto d-block">
